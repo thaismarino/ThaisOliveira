@@ -4,7 +4,7 @@
 
 📍 Petrópolis - RJ
 
-🌱 Esforçada, dedicada e sempre em busca de aprendizad constante 
+🌱 Esforçada, dedicada e sempre em busca de aprendizado constante 
 
 ## ✨ Sobre mim
 
