@@ -1,8 +1,8 @@
 # 👩‍💻 Thais Oliveira dos Santos 
 
-  🎓 Estudante de Tecnologia em Banco de Dados - 4º período no Senac
-  📍 Petrópolis - RJ
-  🌱 Esforçada, dedicada e sempre em busca de aprendizado constante
+🎓 Estudante de Tecnologia em Banco de Dados - 4º período no Senac 
+📍 Petrópolis - RJ 
+🌱 Esforçada, dedicada e sempre em busca de aprendizad constante 
 
 ## ✨ Sobre mim
 
